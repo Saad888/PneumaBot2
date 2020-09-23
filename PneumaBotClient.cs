@@ -17,7 +17,7 @@ namespace PneumaBot2
 
         // Parameters
         // Token:
-        public static string TOKEN = "";
+        public static string TOKEN = "LAWL HARD CODED TOKEN DAEEE";
 
         // Channels:
         static ulong ChannelID_Configurations = 753352703811387573;

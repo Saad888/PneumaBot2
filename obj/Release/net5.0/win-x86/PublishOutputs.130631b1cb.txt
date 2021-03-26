@@ -1,0 +1,6 @@
+C:\Users\staim\Documents\Projects\PneumaBot2\bin\Release\net5.0\publish\new\PneumaBot2.pdb
+C:\Users\staim\Documents\Projects\PneumaBot2\bin\Release\net5.0\publish\new\clrcompression.dll
+C:\Users\staim\Documents\Projects\PneumaBot2\bin\Release\net5.0\publish\new\clrjit.dll
+C:\Users\staim\Documents\Projects\PneumaBot2\bin\Release\net5.0\publish\new\coreclr.dll
+C:\Users\staim\Documents\Projects\PneumaBot2\bin\Release\net5.0\publish\new\mscordaccore.dll
+C:\Users\staim\Documents\Projects\PneumaBot2\bin\Release\net5.0\publish\new\PneumaBot2.exe

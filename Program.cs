@@ -27,7 +27,10 @@ namespace PneumaBot2
 
         public async Task MainAsync()
         {
-            _client = new DiscordSocketClient();
+            var clientConfig = new DiscordSocketConfig();
+            clientConfig.AlwaysDownloadUsers = true;
+
+            _client = new DiscordSocketClient(clientConfig);
             _client.Log += Log;
 
             _client.MessageReceived += PneumaBotClient.OnMsgReceived;
